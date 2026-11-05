@@ -64,7 +64,7 @@ export default function LoginPage() {
 
         {/* Title */}
         <h1 className="text-2xl font-bold text-[#1b233a] mb-1 text-center">
-          AEON Green Loyalty
+          AEON Việt Nam
         </h1>
         <p className="text-slate-500 text-xs mb-6 text-center">
           Vui lòng đăng nhập tài khoản hệ thống
